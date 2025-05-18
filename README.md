@@ -1,7 +1,5 @@
 # Intel-NUC-Board-NUC10i3FN/NUC10i5FN/NUC10i7FN
 
-# Intel® NUC Products NUC10i3FN/NUC10i5FN/NUC10i7FN
-
 # Technical Product Specification 
 
 # Regulatory Models:
