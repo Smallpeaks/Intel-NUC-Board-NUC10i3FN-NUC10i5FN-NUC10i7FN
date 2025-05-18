@@ -24,8 +24,7 @@ http://www.intel.com/content/www/us/en/nuc/overview.html for the latest document
 | Opencore      |  1.0.5                                               |
 | Version       |  macOS Sequoia 15.5                                  |
 | Motherboard   |  Intel NUC10 NUC10i7FNH                              |
-| Hard disk     |  Coiorful CN600 1T M2                                |
-| GPU           |  Intel UHD Graphics 620                              |
+| Hard disk     |  Coiorful CN600 512G M2                                |
 | CPU           |  Intel Core i7-10710U                                |
 | Memory        |  2 x DDR4-2666 SO-DIMM RAM 32 GB                     |
 | Wireless      |  network card: ntel AX210                            |
