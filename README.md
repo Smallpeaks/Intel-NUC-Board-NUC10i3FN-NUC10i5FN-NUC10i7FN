@@ -35,7 +35,7 @@ http://www.intel.com/content/www/us/en/nuc/overview.html for the latest document
 | Power adapter |  19V，6.32A AC-DC                                    |
 |               |                                                      |
 
-# ntel® NUC Products NUC10i3FN/NUC10i5FN/NUC10i7FN Series Motherboards MacOS 15.4 Completeness:
+# ntel® NUC Products NUC10i3FN/NUC10i5FN/NUC10i7FN Series Motherboards MacOS 15.5 :
 
 CPU Normal Turbo Frequency (i3/i5/i7/etc.)
 
